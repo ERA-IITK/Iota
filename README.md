@@ -8,7 +8,7 @@ To start building Actions, you'll first need to create an Actions project:
 
 * Click on Add/import project.
 
-* Type in a Project name, like actions-codelab. This name is for your own internal reference; later on, you can set an external name for your project.
+* Type in a Project name, like **Chatbot**. This name is for your own internal reference; later on, you can set an external name for your project.
 
 * Click Create Project.
 
