@@ -47,3 +47,11 @@ For integrating the bot with messenger you need to have admin rights of the page
 
 * Submit the required documents and send the app for review. Details regarding which can be seen here: https://developers.facebook.com/docs/apps/review/
 
+## Future Prospects
+
+* Add Iota to the website.
+
+* Speech Recognition and Synthesis
+
+* Phone connectivity
+
