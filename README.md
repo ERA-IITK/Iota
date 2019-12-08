@@ -55,3 +55,5 @@ For integrating the bot with messenger you need to have admin rights of the page
 
 * Phone connectivity
 
+* Integration with Google Home, android phones and other devices through Google Assitant
+
